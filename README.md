@@ -32,6 +32,6 @@ print(tokenizer.decode(sample[0]))
   author={Salesforce AI Research},
   howpublished={Salesforce AI Research Blog},
   year={2023},
-  url={https://blog.salesforceairesearch.com/xgen/}
+  url={https://blog.salesforceairesearch.com/xgen-7b/}
 }
 ```
