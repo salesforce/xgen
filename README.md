@@ -10,8 +10,8 @@ Official research release for the family of **XGen** models (`7B`) by Salesforce
 
 Model cards are published on the HuggingFace Hub:
 
-* [XGen-7B-4K-Base](https://huggingface.co/Salesforce/xgen-7b-4k-base): Pretrained XGen-7B model trained under 4K sequence length.
-* [XGen-7B-8K-Base](https://huggingface.co/Salesforce/xgen-7b-8k-base): Pretrained XGen-7B model trained under 8K sequence length.
+* [XGen-7B-4K-Base](https://huggingface.co/Salesforce/xgen-7b-4k-base) with support for 4K sequence length.
+* [XGen-7B-8K-Base](https://huggingface.co/Salesforce/xgen-7b-8k-base) with support for 8K sequence length.
 
 The training data for the models are tokenized with OpenAI Tiktoken library.
 
