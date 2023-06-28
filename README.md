@@ -6,12 +6,22 @@ Official research release for the family of **XGen** models (`7B`) by Salesforce
 
 *Authors*: [todo](https://todo/).
 
-## Usage
+## Models
 
 Model cards are published on the HuggingFace Hub:
 
-* [xgen-7b-4k-base](https://huggingface.co/Salesforce/xgen-7b-4k-base)
-* [xgen-7b-8k-base](https://huggingface.co/Salesforce/xgen-7b-8k-base)
+* [XGen-7B-4K-Base](https://huggingface.co/Salesforce/xgen-7b-4k-base): Pretrained XGen-7B model trained under 4K sequence length.
+  * License: Apache-2.0
+* [XGen-7B-8K-Base](https://huggingface.co/Salesforce/xgen-7b-8k-base): Pretrained XGen-7B model trained under 8K sequence length.
+  * License: Apache-2.0
+
+The training data for the models are tokenized with OpenAI Tiktoken library.
+
+To use this model, install the package via `pip`:
+
+```sh
+pip install tiktoken
+```
 
 The models can be used as auto-regressive samplers as follows:
 
