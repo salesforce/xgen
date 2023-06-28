@@ -4,7 +4,7 @@ Official research release for the family of **XGen** models (`7B`) by Salesforce
 
 *Title*: [Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length](https://blog.salesforceairesearch.com/xgen-7b/)
 
-*Authors*: Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Jesse Vig, Lidiya Murakhovs'ka, Jason Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong.
+*Authors*: Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Chen Xing, Jesse Vig, Lidiya Murakhovs'ka, Jason Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong.
 
 ## Models
 
@@ -38,7 +38,7 @@ print(tokenizer.decode(sample[0]))
 ```bibtex
 @misc{XGen,
   title={Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length},
-  author={Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Jesse Vig, Lidiya Murakhovs'ka, Jason Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong},
+  author={Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Chen Xing, Jesse Vig, Lidiya Murakhovs'ka, Jason Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong},
   howpublished={Salesforce AI Research Blog},
   year={2023},
   url={https://blog.salesforceairesearch.com/xgen-7b/}
