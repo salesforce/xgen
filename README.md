@@ -10,7 +10,8 @@ Official research release for the family of **XGen** models (`7B`) by Salesforce
 
 Model cards are published on the HuggingFace Hub:
 
-* [xGen-7B](https://huggingface.co/Salesforce/xgen-7B)
+* [xgen-7b-4k-base](https://huggingface.co/Salesforce/xgen-7b-4k-base)
+* [xgen-7b-8k-base](https://huggingface.co/Salesforce/xgen-7b-8k-base)
 
 The models can be used as auto-regressive samplers as follows:
 
