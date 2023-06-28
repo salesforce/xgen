@@ -12,7 +12,7 @@ Model cards are published on the HuggingFace Hub:
 
 * [XGen-7B-4K-Base](https://huggingface.co/Salesforce/xgen-7b-4k-base) with support for 4K sequence length.
 * [XGen-7B-8K-Base](https://huggingface.co/Salesforce/xgen-7b-8k-base) with support for 8K sequence length.
-* [XGen-7B-8k-Instruct](https://huggingface.co/Salesforce/xgen-7b-8k-inst) with instruction-finetuning for research-only purpose.
+* [XGen-7B-8k-Instruct](https://huggingface.co/Salesforce/xgen-7b-8k-inst) with instruction-finetuning (for research purpose only).
 
 The training data for the models are tokenized with OpenAI Tiktoken library.
 
