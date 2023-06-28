@@ -15,6 +15,7 @@ Model cards are published on the HuggingFace Hub:
 The models can be used as auto-regressive samplers as follows:
 
 ```python
+import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 tokenizer = AutoTokenizer.from_pretrained("checkpoints/xgen-7B")
