@@ -14,9 +14,7 @@ Model cards are published on the HuggingFace Hub:
 * [XGen-7B-8K-Base](https://huggingface.co/Salesforce/xgen-7b-8k-base) with support for 8K sequence length.
 * [XGen-7B-8k-Instruct](https://huggingface.co/Salesforce/xgen-7b-8k-inst) with instruction-finetuning (for research purpose only).
 
-The training data for the models are tokenized with OpenAI Tiktoken library.
-
-To use this model, install the package via `pip`:
+The tokenization uses the OpenAI Tiktoken library, which can be installed the package via `pip`:
 
 ```sh
 pip install tiktoken
