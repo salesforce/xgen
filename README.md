@@ -2,7 +2,7 @@
 
 Official research release for the family of **XGen** models (`7B`) by Salesforce AI Research:
 
-*Title*: [Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length](https://blog.salesforceairesearch.com/xgen-7b/)
+*Title*: [Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length](https://blog.salesforceairesearch.com/xgen/)
 
 *Authors*: [Erik Nijkamp](https://eriknijkamp.com), [Hiroaki Hayashi](https://hiroakih.me/), Tian Xie, Congying Xia, [Bo Pang](https://scholar.google.com/citations?user=s9fNEVEAAAAJ&hl=en), Rui Meng, Wojciech Kryscinski, [Lifu Tu](https://home.ttic.edu/~lifu/), Meghana Bhat, Chen Xing, Jesse Vig, Lidiya Murakhovs'ka, Jason Wu, [Yingbo Zhou](https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en), [Shafiq Rayhan Joty](https://raihanjoty.github.io/), [Caiming Xiong](http://cmxiong.com/).
 
