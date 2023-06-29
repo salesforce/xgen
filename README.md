@@ -41,6 +41,6 @@ print(tokenizer.decode(sample[0]))
   author={Erik Nijkamp, Hiroaki Hayashi, Tian Xie, Congying Xia, Bo Pang, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Semih Yavuz, Chen Xing, Jesse Vig, Lidiya Murakhovs'ka, Jason Wu, Yingbo Zhou, Shafiq Rayhan Joty, Caiming Xiong},
   howpublished={Salesforce AI Research Blog},
   year={2023},
-  url={https://blog.salesforceairesearch.com/xgen-7b/}
+  url={https://blog.salesforceairesearch.com/xgen}
 }
 ```
