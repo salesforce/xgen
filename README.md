@@ -8,6 +8,8 @@ Official research release for the family of **XGen** models (`7B`) by Salesforce
 
 (* indicates equal contribution).
 
+Correspondence to: [Shafiq Rayhan Joty](sjoty@salesforce.com), [Caiming Xiong](cxiong@salesforce.com ).
+
 ## Models
 
 Model cards are published on the HuggingFace Hub:
