@@ -4,7 +4,7 @@ Official research release for the family of **XGen** models (`7B`) by Salesforce
 
 *Title*: [Long Sequence Modeling with XGen: A 7B LLM Trained on 8K Input Sequence Length](https://blog.salesforceairesearch.com/xgen/)
 
-*Authors*: [Erik Nijkamp](https://eriknijkamp.com)*, Tian Xie*, [Hiroaki Hayashi](https://hiroakih.me/)*, [Bo Pang](https://scholar.google.com/citations?user=s9fNEVEAAAAJ&hl=en)*, Congying Xia*, Chen Xing, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Semih Yavuz, Jesse Vig, Lidiya Murakhovs'ka, [Chien-Sheng Wu](https://jasonwu0731.github.io/), [Yingbo Zhou](https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en), [Shafiq Rayhan Joty](https://raihanjoty.github.io/), [Caiming Xiong](http://cmxiong.com/), Silvio Savarese.
+*Authors*: [Erik Nijkamp](https://eriknijkamp.com)\*, Tian Xie\*, [Hiroaki Hayashi](https://hiroakih.me/)\*, [Bo Pang](https://scholar.google.com/citations?user=s9fNEVEAAAAJ&hl=en)\*, Congying Xia\*, Chen Xing, Rui Meng, Wojciech Kryscinski, Lifu Tu, Meghana Bhat, Semih Yavuz, Jesse Vig, Lidiya Murakhovs'ka, [Chien-Sheng Wu](https://jasonwu0731.github.io/), [Yingbo Zhou](https://scholar.google.com/citations?user=H_6RQ7oAAAAJ&hl=en), [Shafiq Rayhan Joty](https://raihanjoty.github.io/), [Caiming Xiong](http://cmxiong.com/), Silvio Savarese.
 
 (* indicates equal contribution).
 
